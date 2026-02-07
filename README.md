@@ -49,6 +49,7 @@ This project is optimized for search queries such as:
 * **App to download Kwai videos**
 * **Kwai Downloader no watermark**
 * **Download Kwai HD videos**
+* **Video Downloader for kwai**
 
 ---
 
